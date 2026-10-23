@@ -1,0 +1,4 @@
+selenium>=4.15
+pytest>=7.4
+pytest-html>=4.0
+ 
